@@ -2,9 +2,13 @@ This is our submission for the first group project
 
 
 Team Members:
+
 Johanna Belmar
+
 Katharina Sojka
+
 David Spir
+
 Eduardo Mestre
 
 Project title: "Music Analysis for 2023"
